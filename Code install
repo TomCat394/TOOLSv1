@@ -4,4 +4,4 @@ $apt install lolcat
 $apt install git
 $git clone https://github.com/TomCat394/TOOLSv1
 $cd TOOLSv1
-$sh InstallerV1.ah
+$sh InstallerV1.sh
